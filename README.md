@@ -5,9 +5,7 @@
 <b> 🔭 I'm currently looking a good chance as Front-end Developer🌱 </b><br/><br/>
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
 <b>👯 I'm looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers </b>🎨<br/><br/>
-<b>🤔 I'm looking for help with Flutter front-end developer</b><br/><br/>
-<b>🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence </b>🤖<br/><br/>
-<b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling </b>🚴‍♀️<br/><br/>
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/zehracelk?tab=repositories) 
