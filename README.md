@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1> I'm a Frontend Developer 🚀!</h1> <br/>
-<img src="https://www.shutterstock.com/image-vector/landing-page-programming-research-concept-hands-2011951874">
+<img src='https://www.shutterstock.com/image-vector/landing-page-programming-research-concept-600w-2011951874.jpg' />
+
 <b> 🔭 I'm currently looking a good chance as Front-end Developer🌱 </b><br/><br/>
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
 <b>👯 I'm looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers </b>🎨<br/><br/>
