@@ -5,7 +5,7 @@
 
 <b> 🔭 I'm currently looking a good chance as Front-end Developer🌱 </b><br/><br/>
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
-<b>👯 I'm looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers </b>🎨<br/><br/>
+<b>👯 I'm looking to collaborate with other software developer  </b>🎨<br/><br/>
 
 
 
